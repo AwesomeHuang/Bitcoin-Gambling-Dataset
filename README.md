@@ -5,7 +5,7 @@ This repository is the official dataset of our paper: Who is Gambling? Finding C
 
 ### File
 
-https://github.com/chinamm22/254/blob/main/gambling_contract_dataset.csv
+https://github.com/AwesomeHuang/Bitcoin-Gambling-Dataset/blob/main/gambling_contract_dataset.csv
 
 ### Attributes
 
@@ -18,7 +18,7 @@ https://github.com/chinamm22/254/blob/main/gambling_contract_dataset.csv
 
 ### File
 
-https://github.com/chinamm22/254/blob/main/gambling_address_dataset.csv
+https://github.com/AwesomeHuang/Bitcoin-Gambling-Dataset/blob/main/gambling_address_dataset.csv
 
 ### Attributes
 
